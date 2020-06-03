@@ -41,12 +41,12 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/b4ut4
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: UA-168411601-1 # change to your verification string
 
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: ''blog
+baseurl: '/project'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Baku
