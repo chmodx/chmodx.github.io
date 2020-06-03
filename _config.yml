@@ -46,7 +46,7 @@ google_site_verification: UA-168411601-1 # change to your verification string
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: '/project'
+baseurl: '/'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Baku
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
